@@ -1,4 +1,5 @@
-Monter une équipe de n agents IA 
+# Architecture 
+## Monter une équipe de n agents IA 
 
 Un « directeur général » qui reçoit chaque demande et la passe au bon pôle. Onze pôles, cinq agents chacun, 
 de la prospection à la compta. Chaque agent a son rôle, ses outils et sa méthode écrite. Ce guide te donne l'architecture exacte, 
