@@ -30,3 +30,4 @@ la carte des 55 agents et surtout la partie que personne ne montre : comment éc
 * Dans quel ordre déployer
 * Les 9 pièges
 
+<img width="654" height="705" alt="image" src="https://github.com/user-attachments/assets/a1bc9c4c-51ac-4bf8-acf3-eb92d7ff3227" />
